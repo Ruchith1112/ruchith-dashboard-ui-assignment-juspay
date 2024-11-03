@@ -2,7 +2,13 @@
 
 Hosted on Netlify: https://ruchith-dashboard-ui-assignment.netlify.app/
 
-Made it responsive across all screen starting from 425px mobile to large devices and ensured the themes(dark/light) for the application as provided in figma,and tried to match the pixel perfect design.
+Responsive Design: The application is fully responsive across all screen sizes, starting from 425px for mobile devices up to large desktops.
+
+Theme Support: I have implemented both dark and light themes as specified in the Figma designs, providing a seamless user experience.
+
+Pixel-Perfect Design: I made a concerted effort to match the pixel-perfect design as closely as possible.
+
+Styled Components: I utilized styled-components to enhance readability and maintainability of the code, making it easier to understand and modify.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
