@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+Hosted on Netlify: https://ruchith-dashboard-ui-assignment.netlify.app/
+
+Made it responsive across all screen starting from 425px mobile to large devices and ensured the themes(dark/light) for the application as provided in figma,and tried to match the pixel perfect design.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
